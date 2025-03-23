@@ -1,0 +1,8 @@
+
+/bin
+/tmp
+/logs
+/casdoor/web
+
+/*.db
+/*.exe
